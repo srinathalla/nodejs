@@ -1,5 +1,7 @@
 /**
  * T.C : O(nm)
+ * 
+ * S.C : O(nm)
  * @param {*} str1 
  * @param {*} str2 
  */
